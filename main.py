@@ -22,7 +22,6 @@ def echo_all(message):
 
     # bot.reply_to(message, message.text)
 
-# def just_for_git_allow_me_make_a_backup:
-#     pass
+
 
 bot.infinity_polling()
