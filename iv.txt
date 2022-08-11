@@ -1,0 +1,117 @@
+be [bi:]	was [wɔz], were [wз:]	been [bi:n]	быть
+beat [bi:t]	beat [bi:t]	beaten ['bi:tn]	бить
+become [bi:kʌm]	became [bi:keim]	become[bi:kʌm]	становиться
+begin [bi'gin]	began [bi'gæn]	begun [bi'gʌn]	начинать
+bleed [bli:d]	bled [bled]	bled [bled]	кровоточить
+blow [blou]	blew [blu:]	blown [bloun]	дуть
+break [breik]	broke [brouk]	broken ['brouk(e)n]	ломать
+bring [briŋ]	brought [brɔ:t]	brought [brɔ:t]	приносить
+build [bild]	built [bilt]	built [bilt]	строить
+burn [bз:n]	burnt [bз:nt]	burnt [bз:nt]	гореть
+burst [bз:st]	burst [bз:st]	burst [bз:st]	разразиться
+buy [bai]	bought [bɔ:t]	bought [bɔ:t]	покупать
+catch [kætʃ]	caught [kɔ:t]	caught [kɔ:t]	ловить, хватать
+choose [tʃu:z]	chose [ʃəuz]	chosen [tʃəuz(ə)n]	выбирать
+come [kʌm]	came [keim]	come [kʌm]	приходить
+cost [cɔst]	cost [cɔst]	cost [cɔst]	стоить
+creep [kri:p]	crept [krept]	crept [krept]	ползать
+cut [kʌt]	cut [kʌt]	cut [kʌt]	резать
+do [du:]	did [did]	done [dʌn]	делать
+draw [drɔ:]	drew [dru:]	drawn [drɔ:n]	рисовать, тащить
+dream [dri:m]	dreamt [dremt]	dreamt [dremt]	мечтать, дремать
+drink [driŋk]	drank [dræŋk]	drunk [drʌŋk]	пить
+drive [draiv]	drove [drouv]	driven ['drivn]	водить
+eat [i:t]	ate [et]	eaten ['i:tn]	есть
+fall [fɔ:l]	fell [fel]	fallen ['fɔ:lən]	падать
+feed [fi:d]	fed [fed]	fed [fed]	кормить
+feel [fi:l]	felt [felt]	felt [felt]	чувствовать
+fight [fait]	fought [fɔ:t]	fought [fɔ:t]	бороться
+find [faind]	found [faund]	found [faund]	находить
+fit [fit]	fit [fit]	fit [fit]	подходить по размеру
+fly [flai]	flew [flu:]	flown [floun]	летать
+forget [fə'get]	forgot [fə'gɔt]	forgotten [fə'gɔt(ə)n]	забывать
+forgive [fo'giv]	forgave [fo'geiv]	forgiven [fo'givn]	прощать
+freeze [fri:z]	froze [frouz]	frozen ['frouzn]	замерзать
+get [ get ]	got [gɔt]	got [gɔt]	получать
+give [giv]	gave [geiv]	given [givn]	давать
+go [gou]	went [went]	gone [gɔn]	идти
+grow [grou]	grew [gru:]	grown [groun]	расти
+hang [hæŋ]	hung [hʌŋ]	hung [hʌŋ]	вешать
+have [hæv]	had [hæd]	had [hæd]	иметь
+hear [hiə]	heard [hз:d]	heard [hз:d]	слышать
+hide [haid]	hid [hid]	hidden ['hidn]	прятать
+hit [hit]	hit [hit]	hit [hit]	попадать в цель
+hold [hould]	held [held]	held [held]	держать
+hurt [hз:t]	hurt [hз:t]	hurt [hз:t]	ушибить
+keep [ki:p]	kept [kept]	kept [kept]	содержать
+kneel [ni:l]	knelt [nelt]	knelt [nelt]	стоять на коленях
+know [nou]	knew [nju:]	known [noun]	знать
+lay [lei]	laid [leid]	laid [leid]	класть
+lead [li:d]	led [led]	led [led]	вести
+lean [li:n]	leant [lent]	leant [lent]	наклоняться
+learn [lз:n]	learnt [lз:nt]	learnt [lз:nt]	учить
+leave [li:v]	left [left]	left [left]	оставлять
+lend [lend]	lent [lent]	lent [lent]	занимать
+let [let]	let [let]	let [let]	позволять
+lie [lai]	lay [lei]	lain [lein]	лежать
+light [lait]	lit [lit]	lit [lit]	освещать
+lose [lu:z]	lost [lɔst]	lost [lɔst]	терять
+make [meik]	made [meid]	made [meid]	производить
+mean [mi:n]	meant [ment]	meant [ment]	значить
+meet [mi:t]	met [met]	met [met]	встречать
+mistake [mis'teik]	mistook [mis'tuk]	mistaken [mis'teik(e)n]	ошибаться
+pay [pei]	paid [peid]	paid [peid]	платить
+prove [pru:v]	proved [pru:vd]	proven [pru:vn]	доказывать
+put [put]	put [put]	put [put]	положить
+quit [kwit]	quit [kwit]	quit [kwit]	выходить
+read [ri:d]	read [red]	read [red]	читать
+ride [raid]	rode [roud]	ridden ['ridn]	ездить верхом
+ring [riŋ]	rang [ræŋ]	rung [rʌŋ]	звенеть
+rise [raiz]	rose [rouz]	risen ['rizn]	подниматься
+run [rʌŋ]	ran [ræŋ]	run [rʌŋ]	бежать
+say [sei]	said [sed]	said [sed]	говорить
+see [si:]	saw [sɔ:]	seen [si:n]	видеть
+seek [si:k]	sought [sɔ:t]	sought [sɔ:t]	искать
+sell [sel]	sold [sould]	sold [sould]	продавать
+send [send]	sent [sent]	sent [sent]	посылать
+set [set]	set [set]	set [set]	ставить
+sew [sou]	sewed [soud]	sewn [soun]	шить
+shake [ʃeik]	shook [ʃuk]	shaken ['ʃeik(ə)n]	встряхивать
+show [ʃəu]	showed [ʃəud]	shown [ʃəun]	показывать
+shrink [ʃriŋk]	shrank [ʃræŋk]	shrunk [ʃrʌŋk]	уменьшать
+shut [ʃʌt]	shut [ʃʌt]	shut [ʃʌt]	закрывать
+sing [siŋ]	sang [sæŋ]	sung [sʌŋ]	петь
+sink [siŋk]	sank [sæŋk], sunk [sʌŋk]	sunk [sʌŋk]	тонуть
+sit [sit]	sat [sæt]	sat [sæt]	сидеть
+sleep [sli:p]	slept [slept]	slept [slept]	спать
+slide [slaid]	slid [slid]	slid [slid]	скользить
+sow [sou]	sowed [soud]	sown [soun]	сеять
+speak [spi:k]	spoke [spouk]	spoken ['spouk(e)n]	говорить
+spell [spel]	spelt [spelt]	spelt [spelt]	произносить по буквам
+spend [spend]	spent [spent]	spent [spent]	тратить
+spill [spil]	spilt [spilt]	spilt [spilt]	проливать
+spoil [spɔil]	spoilt [spɔilt]	spoilt [spɔilt]	портить
+spread [spred]	spread [spred]	spread [spred]	расстилать
+spring [spriŋ]	sprang [spræŋ]	sprung [sprʌŋ]	прыгать
+stand [stænd]	stood [stu:d]	stood [stu:d]	стоять
+steal [sti:l]	stole [stoul]	stolen ['stəulən]	красть
+stick [stik]	stuck [stʌk]	stuck [stʌk]	колоть
+sting [stiŋ]	stung [stʌŋ]	stung [stʌŋ]	жалить
+sweep [swi:p]	swept [swept]	swept [swept]	выметать
+swell [swel]	swelled [sweld]	swollen ['swoul(e)n]	разбухать
+swim [swim]	swam [swem]	swum [swʌm]	плавать
+swing [swiŋ]	swung [swʌŋ]	swung [swʌŋ]	качать
+take [teik]	took [tuk]	taken ['teik(ə)n]	брать, взять
+teach [ti:tʃ]	taught [tɔ:t]	taught [tɔ:t]	учить
+tear [tɛə]	tore [tɔ:]	torn [tɔ:n]	рвать
+tell [tel]	told [tould]	told [tould]	рассказывать
+think [θiŋk]	thought [θɔ:t]	thought [θɔ:t]	думать
+throw [θrəu]	threw [θru:]	thrown [θrəun]	бросать
+understand [ʌndə'stænd]	understood [ʌndə'stud]	understood [ʌndə'stud]	понимать
+wake [weik]	woke [wouk]	woken ['wouk(e)n]	просыпаться
+wear [wɛə]	wore [wɔ:]	worn [wɔ:n]	носить
+weep [wi:p]	wept [wept]	wept [wept]	плакать
+wet [wet]	wet [wet]	wet [wet]	мочить
+win [win]	won [wʌn]	won [wʌn]	выигрывать
+wind [waind]	wound [waund]	wound [waund]	извиваться
+write [rait]	wrote [rout]	written ['ritn]	писать
