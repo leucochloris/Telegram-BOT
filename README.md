@@ -5,4 +5,6 @@
 #### One of the functions - a bot using the DICTIONARY method (key-value) - will output a value on request.
 
 The full functionality of the bot will be provided later
+
+
 ![screenshot](https://user-images.githubusercontent.com/108606736/184616888-b18b885a-38ca-4a53-b4be-59ef38d40860.jpg)
