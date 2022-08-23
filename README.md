@@ -1,4 +1,6 @@
-# Telegram-BOT
+# This project is clogged, will continue to do it here : https://github.com/leucochloris/Telegram_bot_2.0
+----
+
 
 ### Make a simple bot for Telegram. Link: @some_simple_bot_bot
 
